@@ -2,6 +2,7 @@
 
 namespace NetCoreSandbox
 {
+//test
     class Program
     {
         static void Main(string[] args)
